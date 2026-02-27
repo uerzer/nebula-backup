@@ -6,7 +6,7 @@
   "backed_up_at": "2026-02-27T16:32:00Z",
   "total_messages": 1,
   "has_more": true,
-  "retrieval_note": "search_past_messages does not support true thread-scoped filtering from this agent session. Messages retrieved via keyword FTS. Full channel history may contain additional messages.",
+  "retrieval_note": "search_past_messages does not support true thread-scoped filtering. Messages retrieved via keyword FTS.",
   "files_attached": 0,
   "message_ids": [
     "evt_06985d157b417edd80000fa993664112"
