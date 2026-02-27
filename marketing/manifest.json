@@ -1,0 +1,216 @@
+{
+  "backup_metadata": {
+    "channel_name": "marketing",
+    "thread_id": "thrd_069988075bc07fb980008815bf4c6035",
+    "backup_date": "2026-02-27",
+    "backup_agent": "nebula-channel-backup-archiver",
+    "commit_message": "backup: marketing - 2026-02-27",
+    "repository": "uerzer/nebula-backup",
+    "branch": "main",
+    "folder": "marketing/"
+  },
+  "stats": {
+    "total_messages": 80,
+    "user_messages": 38,
+    "assistant_messages": 42,
+    "file_references": 13,
+    "url_references": 4,
+    "total_references": 17
+  },
+  "files": [
+    {
+      "path": "code/cosmo/index.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - Sales landing page",
+      "source_event": "evt_0699b6d5a0f77bdf800022634b36373d",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/quiz.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - Astrology quiz",
+      "source_event": "evt_0699b6d5a0f77bdf800022634b36373d",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/results.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - Quiz results page",
+      "source_event": "evt_0699b6d5a0f77bdf800022634b36373d",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/upsell.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - OTO1 upsell ($27)",
+      "source_event": "evt_0699b6d5a0f77bdf800022634b36373d",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/downsell.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - Downsell ($7)",
+      "source_event": "evt_0699b6d5a0f77bdf800022634b36373d",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/upsell2.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - OTO2 upsell ($47/yr)",
+      "source_event": "evt_0699b6d5a0f77bdf800022634b36373d",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/thankyou.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - Thank you / delivery page",
+      "source_event": "evt_0699b6d5a0f77bdf800022634b36373d",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/cosmo-report.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - Full blueprint report",
+      "source_event": "evt_0699b4a13b05798280006f4478fb3454",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/email-sequence.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - Email sequence",
+      "source_event": "evt_0699b6d5a0f77bdf800022634b36373d",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/ads.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - Ad creatives",
+      "source_event": "evt_0699b4b2abf3761b8000fbf697ceeb40",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/tiktok-scripts.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - TikTok video scripts",
+      "source_event": "evt_0699b4c107df762e800062f5b9c25fb0",
+      "available": true
+    },
+    {
+      "path": "code/cosmo/pinterest-strategy.html",
+      "type": "file_reference",
+      "description": "COSMO funnel - Pinterest strategy",
+      "source_event": "evt_0699b4c979fa7f2c8000bcc4a3b88944",
+      "available": true
+    },
+    {
+      "path": "misc/task_tsk_0699/cosmo-funnel.zip",
+      "type": "file_reference",
+      "description": "COSMO funnel - Complete zip package (81KB, 12 files)",
+      "source_event": "evt_0699bb7d791b75fe80007c706b8a5951",
+      "available": true
+    }
+  ],
+  "urls": [
+    {
+      "url": "https://x.com/oliverhenry/status/2023776478446436696",
+      "context": "Source tweet - skills/framework to parse",
+      "source_event": "evt_069988096ac2785f800082067cb92906"
+    },
+    {
+      "url": "https://github.com/uerzer/nebula-skills/tree/main/cosmo",
+      "context": "GitHub - COSMO files (early push)",
+      "source_event": "evt_0699b6df8bad7a608000cd9e7718696b"
+    },
+    {
+      "url": "https://github.com/uerzer/nebula-skills/tree/main/projects",
+      "context": "GitHub - All projects consolidated",
+      "source_event": "evt_0699b7356e7c7b538000758112ad6157"
+    },
+    {
+      "url": "https://github.com/uerzer/cosmo-astrology-funnel/settings/pages",
+      "context": "GitHub Pages settings for funnel deployment",
+      "source_event": "evt_0699bbee807c7cfe80002723d9e6887f"
+    }
+  ],
+  "event_ids": [
+    "evt_069988096ac2785f800082067cb92906",
+    "evt_069990fd93ac7dec80009f0e524b0ff3",
+    "evt_0699a150821b7d268000d61a68ab99e7",
+    "evt_0699a1559c3b715f8000b68849fc92e4",
+    "evt_0699abcb4332701e80005d02e2f3c160",
+    "evt_0699ac147ca173858000717f9d1381a9",
+    "evt_0699ac3351467c6180001f261a98a821",
+    "evt_0699ac4195f1765a800043c4365e628b",
+    "evt_0699ac49c52f711780001a6ebc476034",
+    "evt_0699ac55b5c579bd80000ea2fe86f00c",
+    "evt_0699ac646e7e789a8000a03471f58c56",
+    "evt_0699ac6860347c478000c8c55d231b0f",
+    "evt_0699aceb12d371cf800095876921b1a7",
+    "evt_0699ad0342727a8180003766524466a4",
+    "evt_0699ad13078877bf80005d083fe1aaaa",
+    "evt_0699ad1aad1875448000bcce99b21e20",
+    "evt_0699ad242cc2753a8000f8e5bdb43fe3",
+    "evt_0699ad3518dd7ee5800036adf879ddb9",
+    "evt_0699ad3ea0277d1c80003f4d906b3d75",
+    "evt_0699ad4e61e176b88000dc6465754224",
+    "evt_0699ad5692177bd08000e669c32e0094",
+    "evt_0699ad5ece557e8a80009b13f5f21717",
+    "evt_0699b3c4fa807b1f800039b83dca24a8",
+    "evt_0699b3c5bb3574f2800029412901bd85",
+    "evt_0699b3c7595578fa800043f3884a1d51",
+    "evt_0699b3f81517764980004c5089edb009",
+    "evt_0699b3f95d427a3f80002bdaaa387f9c",
+    "evt_0699b3fa335b725f800042cc3c59b6e5",
+    "evt_0699b3fb38cc7445800011b632009ef6",
+    "evt_0699b3fc2777704f800076c717d55f7e",
+    "evt_0699b4a13b05798280006f4478fb3454",
+    "evt_0699b4a171b17da3800012ff34bce1c5",
+    "evt_0699b4a99a007dc48000edb54475151b",
+    "evt_0699b4b2abf3761b8000fbf697ceeb40",
+    "evt_0699b4b2fd037fe7800017897eebe8e9",
+    "evt_0699b4c107df762e800062f5b9c25fb0",
+    "evt_0699b4c13a8c718380006bf07ecacf78",
+    "evt_0699b4c979fa7f2c8000bcc4a3b88944",
+    "evt_0699b4c9ada4776380000fa2dcd4dda5",
+    "evt_0699b6d545c6708880009c32e82d3e42",
+    "evt_0699b6d5577a77fe8000776100c731b0",
+    "evt_0699b6d5a0f77bdf800022634b36373d",
+    "evt_0699b6d79a9f769380008d5297bd9383",
+    "evt_0699b6d7ac377a3280009b57afdebbcb",
+    "evt_0699b6d7f3c276c18000a7245fe92cf6",
+    "evt_0699b6d868fb78ee8000cb4eb1725efb",
+    "evt_0699b6df8bad7a608000cd9e7718696b",
+    "evt_0699b6dfc2907e3c8000a546a2513d9e",
+    "evt_0699b70be85174a58000d1492ad48302",
+    "evt_0699b70bfc52740d8000c5a2fa03e13f",
+    "evt_0699b70c29e977a08000f45e2415d6f6",
+    "evt_0699b70c79097bad80007f279602b010",
+    "evt_0699b70dcc8573f18000979952551647",
+    "evt_0699b70f52da72d1800076bbbfeba992",
+    "evt_0699b71091a77a638000a28daae791d4",
+    "evt_0699b71e01c1744b8000b96b007ea4a0",
+    "evt_0699b7268e2f7b8480007515c0f00677",
+    "evt_0699b727839674a58000fcd06f208915",
+    "evt_0699b727839875a68000f28bde234ba5",
+    "evt_0699b72783997f788000d97fddedfab7",
+    "evt_0699b7356e7c7b538000758112ad6157",
+    "evt_0699b735d6c277278000d7f023b581db",
+    "evt_0699b736348171ed8000622c24ebbd77",
+    "evt_0699b7368c9a796180000840ffcfe2ad",
+    "evt_0699bb468a07747980000a56c82b18e1",
+    "evt_0699bb469ea97376800032f90e8a2817",
+    "evt_0699bb5f965c7258800003f076d3f549",
+    "evt_0699bb5fa94f72f280000d2e9884a87c",
+    "evt_0699bb685e3c7c138000adedcaa3b930",
+    "evt_0699bb686f0b72df8000ca4bd5d09152",
+    "evt_0699bb68d91b72e38000b4c53bd3ebcf",
+    "evt_0699bb6982207071800040ada8ef93a7",
+    "evt_0699bb90f86c7d0c80009290ccb46e5e",
+    "evt_0699bba499b2778c80004944b243f54b",
+    "evt_0699bba56c6874b8800036c21ddf7b82",
+    "evt_0699bbd2fea9718b8000965823506ca4",
+    "evt_0699bbd3930e78c18000c94f6c333669",
+    "evt_0699bbdac8ce7ae2800017768fc34000",
+    "evt_0699bbee807c7cfe80002723d9e6887f"
+  ]
+}
