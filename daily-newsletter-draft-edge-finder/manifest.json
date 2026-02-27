@@ -1,0 +1,16 @@
+{
+  "channel": "daily-newsletter-draft-edge-finder",
+  "thread_id": "thrd_069a1339a39373e28000d792d2985eca",
+  "description": "Automated daily channel that generates newsletter draft content for the Edge Finder newsletter.",
+  "backup_date": "2026-02-27",
+  "backed_up_at": "2026-02-27T16:32:00Z",
+  "total_messages": 1,
+  "has_more": true,
+  "retrieval_note": "search_past_messages does not support true thread-scoped filtering. Messages retrieved via keyword FTS.",
+  "files_attached": 0,
+  "message_ids": [
+    "evt_069a0d0ac366798f800009e12271a3b6"
+  ],
+  "github_repo": "uerzer/nebula-backup",
+  "github_folder": "daily-newsletter-draft-edge-finder/"
+}
