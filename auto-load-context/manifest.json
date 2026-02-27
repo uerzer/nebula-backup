@@ -1,0 +1,10 @@
+{
+  "channel": "auto-load-context",
+  "thread_id": "thrd_069a0c26c2f9743680006da26fe19f14",
+  "backup_date": "2026-02-27",
+  "total_messages": 17,
+  "user_messages": 5,
+  "assistant_messages": 12,
+  "file_attachments": [],
+  "notes": "Automated context-loading channel. Trigger fires on new conversations and restores session context via memory-context-loader agent. 355 total trigger executions recorded."
+}
