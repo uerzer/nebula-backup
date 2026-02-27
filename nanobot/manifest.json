@@ -1,0 +1,60 @@
+{
+  "channel": "nanobot",
+  "thread_id": "thrd_0698b2a8411d7e128000e42dfb25dbc4",
+  "backup_date": "2026-02-27",
+  "backup_time_utc": "2026-02-27T15:59:00Z",
+  "message_count": 56,
+  "date_range": {
+    "earliest": "2026-02-13T00:05:00Z",
+    "latest": "2026-02-27T12:59:00Z"
+  },
+  "agents_active": [
+    "Auto-Load Context on New Conversations",
+    "Daily Scanner Intelligence Run",
+    "Daily Newsletter Draft - Edge Finder",
+    "Daily Framework Content Scanner",
+    "UserAgent"
+  ],
+  "triggers_active": [
+    "Auto-Load Context on New Conversations (#300+ executions)",
+    "Daily Scanner Intelligence Run",
+    "Daily Newsletter Draft - Edge Finder",
+    "Daily Framework Content Scanner"
+  ],
+  "file_references": [
+    "data/SCANNER_EXECUTION_SUMMARY_2026-02-13.md",
+    "data/ai_agency_leads_report_2026-02-13_0614.md",
+    "data/pricing_gaps_scan_2026-02-13_0616.json",
+    "data/unified_opportunity_rankings_2026-02-13_0620.json",
+    "data/unified_opportunity_rankings_2026-02-13_0621.json",
+    "docs/EXECUTIVE_SUMMARY_20260227.md",
+    "outputs/newsletter-content/news_aggregation_20260227.json",
+    "outputs/newsletter-drafts/edge_finder_20260227.html",
+    "outputs/newsletter-drafts/edge_finder_20260227.md",
+    "outputs/newsletter-drafts/edge_finder_20260227_meta.json"
+  ],
+  "file_count": 10,
+  "files_in_backup": [
+    "nanobot/conversation.md",
+    "nanobot/manifest.json"
+  ],
+  "github_repo": "uerzer/nebula-backup",
+  "commit_message": "backup: nanobot - 2026-02-27",
+  "projects_tracked": [
+    "Solana Token Scanner",
+    "COSMO Astrology Funnel",
+    "Niche Directory Empire",
+    "Astrology Engine",
+    "Opportunity Intelligence System (6 scanners)",
+    "Edge Finder Newsletter",
+    "Leverage Letter"
+  ],
+  "top_opportunity_snapshot": {
+    "name": "Customer Support Automation Bundle",
+    "score": 85.7,
+    "y1_revenue_potential": "$400K-900K",
+    "time_to_market": "3-4 months",
+    "date": "2026-02-27"
+  },
+  "note": "Message history captured via search_past_messages (max 50 per query). Full history sampled across multiple targeted queries. Some messages may be truncated at 280 chars in content_preview."
+}
