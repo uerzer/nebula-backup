@@ -2,11 +2,11 @@
   "channel": "nanobot",
   "thread_id": "thrd_0698b2a8411d7e128000e42dfb25dbc4",
   "backup_date": "2026-02-27",
-  "backup_time_utc": "2026-02-27T15:59:00Z",
-  "message_count": 56,
+  "backup_time_utc": "2026-02-27T16:09:00Z",
+  "message_count": 44,
   "date_range": {
-    "earliest": "2026-02-13T00:05:00Z",
-    "latest": "2026-02-27T12:59:00Z"
+    "earliest": "2026-02-13T00:00:00Z",
+    "latest": "2026-02-27T16:09:00Z"
   },
   "agents_active": [
     "Auto-Load Context on New Conversations",
@@ -16,14 +16,15 @@
     "UserAgent"
   ],
   "triggers_active": [
-    "Auto-Load Context on New Conversations (#300+ executions)",
-    "Daily Scanner Intelligence Run",
-    "Daily Newsletter Draft - Edge Finder",
-    "Daily Framework Content Scanner"
+    "Auto-Load Context on New Conversations (#338 executions as of backup)",
+    "Daily Scanner Intelligence Run (06:00 UTC, execution #15)",
+    "Daily Newsletter Draft - Edge Finder (06:30 UTC, execution #14)",
+    "Daily Framework Content Scanner (06:00 UTC)"
   ],
   "file_references": [
     "data/SCANNER_EXECUTION_SUMMARY_2026-02-13.md",
     "data/ai_agency_leads_report_2026-02-13_0614.md",
+    "data/memory/state/auto-context-state.json",
     "data/pricing_gaps_scan_2026-02-13_0616.json",
     "data/unified_opportunity_rankings_2026-02-13_0620.json",
     "data/unified_opportunity_rankings_2026-02-13_0621.json",
@@ -33,12 +34,13 @@
     "outputs/newsletter-drafts/edge_finder_20260227.md",
     "outputs/newsletter-drafts/edge_finder_20260227_meta.json"
   ],
-  "file_count": 10,
+  "file_count": 11,
   "files_in_backup": [
     "nanobot/conversation.md",
     "nanobot/manifest.json"
   ],
   "github_repo": "uerzer/nebula-backup",
+  "github_branch": "main",
   "commit_message": "backup: nanobot - 2026-02-27",
   "projects_tracked": [
     "Solana Token Scanner",
@@ -47,7 +49,8 @@
     "Astrology Engine",
     "Opportunity Intelligence System (6 scanners)",
     "Edge Finder Newsletter",
-    "Leverage Letter"
+    "Leverage Letter",
+    "AI Automation Agency"
   ],
   "top_opportunity_snapshot": {
     "name": "Customer Support Automation Bundle",
@@ -56,5 +59,11 @@
     "time_to_market": "3-4 months",
     "date": "2026-02-27"
   },
-  "note": "Message history captured via search_past_messages (max 50 per query). Full history sampled across multiple targeted queries. Some messages may be truncated at 280 chars in content_preview."
+  "user": {
+    "name": "hax man",
+    "timezone": "Europe/Lisbon",
+    "mrr_current": "$0",
+    "mrr_target": "$2k/month"
+  },
+  "note": "Message history captured via search_past_messages. Full history sampled across multiple targeted queries (max 50 per query, no offset pagination available). Message content_preview truncated at ~500 chars per message."
 }
