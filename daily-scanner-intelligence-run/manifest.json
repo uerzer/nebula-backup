@@ -1,0 +1,18 @@
+{
+  "channel": "daily-scanner-intelligence-run",
+  "thread_id": "thrd_069a133cf67072ca8000511b0b3ffbb9",
+  "description": "Automated daily channel that aggregates intelligence from all 6 opportunity scanners and presents ranked results.",
+  "backup_date": "2026-02-27",
+  "backed_up_at": "2026-02-27T16:32:00Z",
+  "total_messages": 3,
+  "has_more": true,
+  "retrieval_note": "search_past_messages does not support true thread-scoped filtering. Messages retrieved via keyword FTS.",
+  "files_attached": 0,
+  "message_ids": [
+    "evt_0699e9d1e808790e800018f62e46cba1",
+    "evt_0699d46c2aeb777d8000318744f0bc12",
+    "evt_069940eaccda79d88000aff5d75cdd95"
+  ],
+  "github_repo": "uerzer/nebula-backup",
+  "github_folder": "daily-scanner-intelligence-run/"
+}
