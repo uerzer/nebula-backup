@@ -2,7 +2,7 @@
   "channel": "business-intelligence-automation",
   "thread_id": "thrd_069931c67be57cf180009d1c149cbaca",
   "backup_date": "2026-02-27",
-  "backup_tool": "Nebula Channel Backup Archiver",
+  "backup_agent": "Nebula Channel Backup Archiver",
   "total_messages": 13,
   "message_ids": [
     "evt_069931c67c2279f88000ec86a4970c89",
@@ -19,7 +19,6 @@
     "evt_0699320e157474ae8000babb0849e5cb",
     "evt_0699320e34e07afd80000c1c68640b22"
   ],
-  "files_referenced": [],
   "participants": {
     "user_messages": 6,
     "assistant_messages": 7,
@@ -27,8 +26,15 @@
       "UserAgent"
     ]
   },
-  "pagination": {
-    "has_more": false,
-    "total_fetched": 13
-  }
+  "files": {
+    "total_file_references": 0,
+    "file_events": []
+  },
+  "files_in_backup": [
+    "conversation.md",
+    "manifest.json"
+  ],
+  "github_repo": "uerzer/nebula-backup",
+  "github_folder": "business-intelligence-automation/",
+  "commit_message": "backup: business-intelligence-automation - 2026-02-27"
 }
