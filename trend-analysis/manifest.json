@@ -1,0 +1,14 @@
+{
+  "channel": "trend-analysis",
+  "thread_id": "thrd_06985d18bea97f1680007c608f4561c3",
+  "description": "Channel for monitoring and analyzing emerging trends across markets, technology, and consumer behavior.",
+  "backup_date": "2026-02-27",
+  "backed_up_at": "2026-02-27T16:32:00Z",
+  "total_messages": 0,
+  "has_more": true,
+  "retrieval_note": "search_past_messages does not support true thread-scoped filtering from this agent session. Messages retrieved via keyword FTS. No messages matched available keywords.",
+  "files_attached": 0,
+  "message_ids": [],
+  "github_repo": "uerzer/nebula-backup",
+  "github_folder": "trend-analysis/"
+}
