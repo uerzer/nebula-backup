@@ -1,0 +1,48 @@
+{
+  "channel": "general",
+  "thread_id": "thrd_06985c852ab8743880002de4c2794364",
+  "backup_date": "2026-02-27",
+  "backup_agent": "nebula-channel-backup-archiver",
+  "total_messages": 50,
+  "user_messages": 11,
+  "assistant_messages": 39,
+  "note": "Message history limited to 50 most recent messages (search_past_messages API cap). has_more=true indicates older messages exist but are not paginate-accessible.",
+  "file_references": [
+    {
+      "path": "@file:tmp/steps3to6.ts",
+      "type": "TypeScript",
+      "description": "GitHub Git Data API multi-step script (blob->tree->commit->ref)",
+      "status": "referenced_in_conversation"
+    },
+    {
+      "path": "@file:tmp/base.html",
+      "type": "HTML",
+      "description": "Jinja2 base template for niche-directory-empire",
+      "status": "pushed_to_uerzer/niche-directory-empire"
+    },
+    {
+      "path": "@file:tmp/index.html",
+      "type": "HTML",
+      "description": "Homepage template for niche-directory-empire",
+      "status": "pushed_to_uerzer/niche-directory-empire"
+    },
+    {
+      "path": "@file:tmp/requirements.txt",
+      "type": "Text",
+      "description": "Python dependencies for niche-directory-empire pipeline",
+      "status": "pushed_to_uerzer/niche-directory-empire"
+    }
+  ],
+  "topics_covered": [
+    "Niche B2B directory business strategy",
+    "GitHub Git Data API workflow (blob/tree/commit/ref)",
+    "Deploy workflow for Cloudflare Pages",
+    "Niche directory empire repo code audit and template generation",
+    "Repo inventory: grok-local-server, niche-directory-empire, opportunity-intelligence",
+    "Email CC to marcelogil.ferreira@gmail.com",
+    "Vercel labs agent URL discussion",
+    "Greg Isenberg niche directory case study analysis",
+    "Memory Care Facilities / Plasma Centers / Mental Health Therapists niches",
+    "AI-driven end-to-end digital business execution philosophy"
+  ]
+}
