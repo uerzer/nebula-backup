@@ -1,0 +1,16 @@
+{
+  "channel": "opportunity-assessment",
+  "thread_id": "thrd_06985d18beeb7b478000673225eba36a",
+  "description": "Channel for evaluating and scoring business opportunities against market viability criteria.",
+  "backup_date": "2026-02-27",
+  "backed_up_at": "2026-02-27T16:32:00Z",
+  "total_messages": 1,
+  "has_more": true,
+  "retrieval_note": "search_past_messages does not support true thread-scoped filtering from this agent session. Messages retrieved via keyword FTS. Full channel history may contain additional messages.",
+  "files_attached": 0,
+  "message_ids": [
+    "evt_06985d157b417edd80000fa993664112"
+  ],
+  "github_repo": "uerzer/nebula-backup",
+  "github_folder": "opportunity-assessment/"
+}
