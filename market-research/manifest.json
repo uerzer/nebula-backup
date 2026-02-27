@@ -1,0 +1,15 @@
+{
+  "channel": "market-research",
+  "thread_id": "thrd_06985d18bf2e75d38000ce629b1979a8",
+  "backup_date": "2026-02-27T16:24:00Z",
+  "total_messages_captured": 2,
+  "has_more": true,
+  "retrieval_note": "Retrieved via FTS keyword search. Thread-scoped retrieval not supported; additional messages likely exist. Channel purpose: Deep competitive analysis and revenue model exploration.",
+  "messages": [
+    {"event_id": "evt_06985d18d2777bfd8000b3ce6476e349", "role": "assistant", "agent_name": "UserAgent", "created_at": "~1 month ago", "has_files": false, "has_images": false},
+    {"event_id": "evt_06985d157b417edd80000fa993664112", "role": "assistant", "agent_name": "UserAgent", "created_at": "~1 month ago", "has_files": false, "has_images": false}
+  ],
+  "files": [],
+  "generated_by": "nebula-channel-backup-archiver",
+  "github_repo": "uerzer/nebula-backup"
+}
