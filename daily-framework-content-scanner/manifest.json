@@ -1,0 +1,16 @@
+{
+  "channel": "daily-framework-content-scanner",
+  "thread_id": "thrd_069a13388f347d39800049a29670ece4",
+  "description": "Automated daily channel that scans content from Greg Isenberg, Naval Ravikant, AJ Smart, and Ogilvy for actionable frameworks and insights.",
+  "backup_date": "2026-02-27",
+  "backed_up_at": "2026-02-27T16:32:00Z",
+  "total_messages": 1,
+  "has_more": true,
+  "retrieval_note": "search_past_messages does not support true thread-scoped filtering. Messages retrieved via keyword FTS.",
+  "files_attached": 0,
+  "message_ids": [
+    "evt_069a0d0b2d7077cd8000c18ba311872d"
+  ],
+  "github_repo": "uerzer/nebula-backup",
+  "github_folder": "daily-framework-content-scanner/"
+}
