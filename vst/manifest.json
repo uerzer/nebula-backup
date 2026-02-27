@@ -1,0 +1,219 @@
+{
+  "channel": "Vst",
+  "slug": "vst",
+  "thread_id": "thrd_069893e981397015800036e333fd984d",
+  "backed_up_at": "2026-02-27T15:59:00+00:00",
+  "message_count": 102,
+  "user_message_count": 7,
+  "assistant_message_count": 95,
+  "file_reference_count": 41,
+  "github_repo": "uerzer/nebula-backup",
+  "backup_path": "vst/",
+  "files": [
+    {
+      "filename": "CloudsMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "CloudsMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "DEVELOPER_GUIDE.md",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "GlitchMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "GlitchMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "GranularMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "GranularMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "HologramMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "HologramMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "PLAN.md",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "README.md",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "RetroMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "RetroMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "ReverbMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "ReverbMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "ScratchMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "ScratchMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "SequenceMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "SequenceMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "ShimmerMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "ShimmerMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "SliceMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "SliceMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "Source/DSP/Modes/ArpMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "Source/DSP/Modes/ArpMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "Source/DSP/Modes/MosaicMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "Source/DSP/Modes/MosaicMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "Source/DSP/Modes/SeqMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "Source/DSP/Modes/SeqMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "Source/Parameters/ParameterManager.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "StutterMode.cpp",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "StutterMode.h",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "USER_GUIDE.md",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "docs/DEVELOPER_GUIDE.md",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "docs/PLAN.md",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "docs/README.md",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "docs/USER_GUIDE.md",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "docs/microcosm-vst-architecture.md",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "github_upload.py",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "microcosm-vst-architecture.md",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    },
+    {
+      "filename": "tmp/github_upload.py",
+      "status": "referenced-in-messages",
+      "note": "File path extracted from message content; not downloaded"
+    }
+  ]
+}
