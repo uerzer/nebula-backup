@@ -1,0 +1,11 @@
+{
+  "channel_name": "funnel",
+  "thread_id": "thrd_0698612d5971767080006dd1c4cfedb1",
+  "message_count": 21,
+  "date_range": {
+    "earliest": "2026-02 (approx 1 month ago)",
+    "latest": "2026-02 (approx 1 month ago)"
+  },
+  "backup_timestamp": "2026-03-01T00:17:00Z",
+  "backup_agent": "nebula-channel-backup-agent"
+}
