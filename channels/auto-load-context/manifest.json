@@ -1,0 +1,15 @@
+{
+  "channel_name": "auto-load-context",
+  "display_name": "Auto-Load Context on New Conversations",
+  "thread_id": "thrd_069a0c26c2f9743680006da26fe19f14",
+  "message_count": 50,
+  "note": "50 most recent messages captured; channel has more history (execution #355+ indicates high volume)",
+  "date_range": {
+    "first_message": "2026-02-27",
+    "last_message": "2026-02-28"
+  },
+  "backup_timestamp": "2026-03-01T00:24:00Z",
+  "is_archived": false,
+  "participants": ["user", "UserAgent"],
+  "description": "Automated trigger that fires periodically to load full memory context into the current session. Reconstructs user profile, active projects, recent activity, and priorities. Runs every ~1 hour to keep context fresh. As of executions 343-355, the primary focus is Solana Token Scanner monetization and the Customer Support Automation Bundle opportunity (85.7/100 score)."
+}
