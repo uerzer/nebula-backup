@@ -1,0 +1,11 @@
+{
+  "channel_name": "trend-analysis",
+  "channel_id": "thrd_06985d18bea97f1680007c608f4561c3",
+  "message_count": 11,
+  "date_range": {
+    "earliest": "2026-01-28",
+    "latest": "2026-01-28"
+  },
+  "backup_timestamp": "2026-03-01T00:17:00Z",
+  "has_files": false
+}
