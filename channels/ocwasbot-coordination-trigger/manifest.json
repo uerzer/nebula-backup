@@ -1,0 +1,14 @@
+{
+  "channel_name": "ocwasbot-coordination-trigger",
+  "display_name": "OCWASbot Coordination Trigger",
+  "thread_id": "thrd_069a0ebc52bb7061800077656c903f54",
+  "message_count": 8,
+  "date_range": {
+    "first_message": "2026-02-28",
+    "last_message": "2026-02-28"
+  },
+  "backup_timestamp": "2026-03-01T00:24:00Z",
+  "is_archived": false,
+  "participants": ["user", "UserAgent", "Telegram"],
+  "description": "Automated coordination trigger that fires when OCWASbot posts messages to the Bots Telegram group. Analyzes the message and coordinates a response."
+}
