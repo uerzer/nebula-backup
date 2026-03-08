@@ -1,16 +1,11 @@
 {
-  "channel": "funnel",
+  "channel_name": "funnel",
   "thread_id": "thrd_0698612d5971767080006dd1c4cfedb1",
-  "backup_date": "2026-02-27T16:24:00Z",
-  "total_messages_captured": 3,
-  "has_more": true,
-  "retrieval_note": "Retrieved via FTS keyword search (search_all_threads=True). Thread-scoped retrieval not supported; additional messages likely exist in channel history.",
-  "messages": [
-    {"event_id": "evt_0698651b730f78928000f5740aca0e3c", "role": "assistant", "agent_name": "UserAgent", "created_at": "~1 month ago", "has_files": false, "has_images": false},
-    {"event_id": "evt_0698617d137870388000acce8422a737", "role": "assistant", "agent_name": "UserAgent", "created_at": "~1 month ago", "has_files": false, "has_images": false},
-    {"event_id": "evt_0698662e7a0175558000c01c0f5db1d0", "role": "assistant", "agent_name": "UserAgent", "created_at": "~1 month ago", "has_files": false, "has_images": false}
-  ],
-  "files": [],
-  "generated_by": "nebula-channel-backup-archiver",
-  "github_repo": "uerzer/nebula-backup"
+  "message_count": 21,
+  "date_range": {
+    "earliest": "2026-02 (approx 1 month ago)",
+    "latest": "2026-02 (approx 1 month ago)"
+  },
+  "backup_timestamp": "2026-03-01T00:17:00Z",
+  "backup_agent": "nebula-channel-backup-agent"
 }
