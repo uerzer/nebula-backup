@@ -1,76 +1,76 @@
-# Nebula Channel Backups
+# Nebula Channel Backup
 
-This repository contains complete conversation backups of all Nebula channels for **hax man** (phobik2000+ai@gmail.com). Each channel is preserved in chronological order with full message content, metadata, and structured manifests for easy search and reference.
+This repository contains archived conversation history and file manifests for all Nebula channels.
 
-## What This Repo Contains
+**Last Backup:** 2026-03-08  
+**Total Channels:** 28  
+**Repository:** [uerzer/nebula-backup](https://github.com/uerzer/nebula-backup)
 
-- **`channels/{channel-name}/conversation.md`** — Full message history in chronological order, formatted as `**[timestamp] username:** message content`
-- **`channels/{channel-name}/manifest.json`** — Channel metadata including message count, date range, participant list, and backup timestamp
+---
 
-Backups are version-controlled so every run produces a timestamped Git commit history, enabling point-in-time recovery and diff-based change tracking.
+## Channel Index
 
-## Backed-Up Channels
+| # | Channel | Folder | Description | Status |
+|---|---------|--------|-------------|--------|
+| 1 | general | [general/](general/) | Main general discussion channel | Active |
+| 2 | astrology | [astrology/](astrology/) | Astrology topics and content generation | Active |
+| 3 | grok | [grok/](grok/) | Grok AI integration and experiments | Active |
+| 4 | nanobot | [nanobot/](nanobot/) | Nanobot agent configuration and tasks | Active |
+| 5 | levelsio | [levelsio/](levelsio/) | Levels.io research and inspiration | Active |
+| 6 | marketing | [marketing/](marketing/) | Marketing strategy and campaigns | Active |
+| 7 | business-intelligence-automation | [business-intelligence-automation/](business-intelligence-automation/) | BI automation workflows and pipelines | Active |
+| 8 | discord-agent-setup | [discord-agent-setup/](discord-agent-setup/) | Discord agent configuration and setup | Active |
+| 9 | reverse | [reverse/](reverse/) | Reverse engineering and analysis | Active |
+| 10 | vst | [vst/](vst/) | VST plugin development and audio tools | Active |
+| 11 | hf | [hf/](hf/) | Hugging Face models and ML experiments | Active |
+| 12 | crypto | [crypto/](crypto/) | Cryptocurrency research and tracking | Active |
+| 13 | internal-self-improvement | [internal-self-improvement/](internal-self-improvement/) | Internal agent self-improvement workflows | Active |
+| 14 | memory | [memory/](memory/) | Agent memory management and optimization | Active |
+| 15 | gsd | [gsd/](gsd/) | Get Stuff Done - task execution channel | Active |
+| 16 | market-research | [market-research/](market-research/) | Market research and competitive analysis | Active |
+| 17 | funnel | [funnel/](funnel/) | Sales funnel strategy and optimization | Active |
+| 18 | new-ssh | [new-ssh/](new-ssh/) | SSH configuration and server setup | Active |
+| 19 | self-improvement | [self-improvement/](self-improvement/) | Personal development and learning goals | Active |
+| 20 | execution-tracker | [execution-tracker/](execution-tracker/) | Task execution tracking and progress | Active |
+| 21 | opportunity-assessment | [opportunity-assessment/](opportunity-assessment/) | Business opportunity evaluation and scoring | Active |
+| 22 | trend-analysis | [trend-analysis/](trend-analysis/) | Trend monitoring and analysis reports | Active |
+| 23 | daily-scanner-intelligence-run | [daily-scanner-intelligence-run/](daily-scanner-intelligence-run/) | Daily automated intelligence scanning | Active |
+| 24 | daily-framework-content-scanner | [daily-framework-content-scanner/](daily-framework-content-scanner/) | Daily framework and content monitoring | Active |
+| 25 | daily-newsletter-draft-edge-finder | [daily-newsletter-draft-edge-finder/](daily-newsletter-draft-edge-finder/) | Daily newsletter drafting and edge content discovery | Active |
+| 26 | ocwasbot-coordination-trigger | [ocwasbot-coordination-trigger/](ocwasbot-coordination-trigger/) | OCWASbot automation coordination trigger | Active |
+| 27 | auto-load-context | [auto-load-context/](auto-load-context/) | Automated context loading for agent initialization | Active |
+| 28 | test | [test/](test/) | Testing and experimentation sandbox | Archived |
 
-| # | Channel | Folder | Messages | Last Backup |
-|---|---------|--------|----------|-------------|
-| 1 | general | [channels/general](./channels/general) | — | 2026-03-01 |
-| 2 | astrology | [channels/astrology](./channels/astrology) | — | 2026-03-01 |
-| 3 | grok | [channels/grok](./channels/grok) | — | 2026-03-01 |
-| 4 | nanobot | [channels/nanobot](./channels/nanobot) | — | 2026-03-01 |
-| 5 | levelsio | [channels/levelsio](./channels/levelsio) | — | 2026-03-01 |
-| 6 | marketing | [channels/marketing](./channels/marketing) | — | 2026-03-01 |
-| 7 | business-intelligence-automation | [channels/business-intelligence-automation](./channels/business-intelligence-automation) | — | 2026-03-01 |
-| 8 | discord-agent-setup | [channels/discord-agent-setup](./channels/discord-agent-setup) | — | 2026-03-01 |
-| 9 | reverse | [channels/reverse](./channels/reverse) | — | 2026-03-01 |
-| 10 | vst | [channels/vst](./channels/vst) | — | 2026-03-01 |
-| 11 | hf | [channels/hf](./channels/hf) | — | 2026-03-01 |
-| 12 | crypto | [channels/crypto](./channels/crypto) | — | 2026-03-01 |
-| 13 | internal-self-improvement | [channels/internal-self-improvement](./channels/internal-self-improvement) | — | 2026-03-01 |
-| 14 | memory | [channels/memory](./channels/memory) | — | 2026-03-01 |
-| 15 | gsd | [channels/gsd](./channels/gsd) | — | 2026-03-01 |
-| 16 | market-research | [channels/market-research](./channels/market-research) | — | 2026-03-01 |
-| 17 | funnel | [channels/funnel](./channels/funnel) | — | 2026-03-01 |
-| 18 | new-ssh | [channels/new-ssh](./channels/new-ssh) | — | 2026-03-01 |
-| 19 | self-improvement | [channels/self-improvement](./channels/self-improvement) | — | 2026-03-01 |
-| 20 | execution-tracker | [channels/execution-tracker](./channels/execution-tracker) | — | 2026-03-01 |
-| 21 | opportunity-assessment | [channels/opportunity-assessment](./channels/opportunity-assessment) | — | 2026-03-01 |
-| 22 | trend-analysis | [channels/trend-analysis](./channels/trend-analysis) | — | 2026-03-01 |
-| 23 | daily-scanner-intelligence-run | [channels/daily-scanner-intelligence-run](./channels/daily-scanner-intelligence-run) | — | 2026-03-01 |
-| 24 | daily-framework-content-scanner | [channels/daily-framework-content-scanner](./channels/daily-framework-content-scanner) | — | 2026-03-01 |
-| 25 | daily-newsletter-draft-edge-finder | [channels/daily-newsletter-draft-edge-finder](./channels/daily-newsletter-draft-edge-finder) | — | 2026-03-01 |
-| 26 | ocwasbot-coordination-trigger | [channels/ocwasbot-coordination-trigger](./channels/ocwasbot-coordination-trigger) | 8 | 2026-03-01 |
-| 27 | auto-load-context | [channels/auto-load-context](./channels/auto-load-context) | 50+ | 2026-03-01 |
-| 28 | test | [channels/test](./channels/test) | 30 | 2026-03-01 |
+---
 
-**Total channels backed up: 28**
+## Folder Structure
 
-## Last Backup
-
-**Date:** 2026-03-01
-**Automated by:** Nebula Channel Backup Agent (Weekly trigger)
-**Repo:** [uerzer/nebula-backup](https://github.com/uerzer/nebula-backup)
-
-## Backup Schedule
-
-Backups run automatically every week via the **Weekly Nebula Channel Backup** trigger. Each run fetches the latest messages from all active channels and commits them to this repo with a descriptive commit message.
-
-## Structure
+Each channel folder contains:
 
 ```
-nebula-backup/
-  README.md
-  channels/
-    general/
-      conversation.md
-      manifest.json
-    astrology/
-      conversation.md
-      manifest.json
-    ... (28 channels total)
+<channel-name>/
+  conversation.md   # Full message history with author, timestamp, and content
+  manifest.md       # Backup index with metadata, file count, and notes
 ```
 
-## Notes
+---
 
-- The `auto-load-context` channel is a high-volume automated trigger channel (355+ executions); only the most recent 50 messages are captured per backup run.
-- The `test` channel is archived but preserved for historical reference.
-- Channels with `—` message counts were backed up in earlier runs; check their individual `manifest.json` for exact counts.
+## Backup History
+
+| Date | Channels Backed Up | Notes |
+|------|-------------------|-------|
+| 2026-02-27 | general, astrology, grok, nanobot, levelsio, marketing, business-intelligence-automation, discord-agent-setup, reverse, vst | Initial batch backup |
+| 2026-02-27 | hf, crypto, internal-self-improvement, memory, gsd, market-research, funnel, new-ssh, self-improvement, execution-tracker | Second batch backup |
+| 2026-02-27 | opportunity-assessment, trend-analysis, daily-scanner-intelligence-run, daily-framework-content-scanner, daily-newsletter-draft-edge-finder | Third batch backup |
+| 2026-03-08 | ocwasbot-coordination-trigger, auto-load-context, test | Final batch - all 28 channels complete |
+
+---
+
+## About
+
+This backup repository is maintained by the **Nebula Channel Backup Archiver** agent. It automatically archives Nebula channel conversations to GitHub for long-term preservation, compliance, and searchability.
+
+- **Agent:** Nebula Channel Backup Archiver
+- **Trigger:** Manual or scheduled weekly backup
+- **Format:** Markdown (conversation.md + manifest.md per channel)
+- **Branch:** main
