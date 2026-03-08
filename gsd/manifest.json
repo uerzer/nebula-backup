@@ -1,0 +1,45 @@
+{
+  "channel": "gsd",
+  "thread_id": "thrd_06985f7ab7ea71708000a9d1969ad945",
+  "backup_date": "2026-03-01",
+  "backup_agent": "nebula-channel-backup-archiver",
+  "repository": "uerzer/nebula-backup",
+  "stats": {
+    "messages_captured": 15,
+    "total_messages_approx": 50,
+    "has_more_messages": true,
+    "user_messages": 5,
+    "assistant_messages": 10
+  },
+  "file_references": [
+    "@file:code/CODE_REVIEW_WAVE_1.md",
+    "@file:code/url-shortener-landing/index.html"
+  ],
+  "key_topics": [
+    "URL Shortener Pro landing page ($9/month)",
+    "GitHub Pages deployment limitations",
+    "ClickFunnels Strategy Architect agent",
+    "Russell Brunson methodology",
+    "Hook-Story-Offer framework",
+    "GSD Agent Suite (8 agents)",
+    "Code security review",
+    "https://github.com/uerzer/url-shortener-pro-landing"
+  ],
+  "message_ids": [
+    "evt_0698627754527ff58000ba7867ad1bda",
+    "evt_0698622699e67541800026639e04cf81",
+    "evt_06986226605c7649800071bc8ae419b5",
+    "evt_06986212367f78f180002e2512a60f7f",
+    "evt_0698624329ae783180007927adb6197d",
+    "evt_069862af38b97c7a80005fcaaf0ee9b3",
+    "evt_0698635719247e8c8000026496d9e25a",
+    "evt_06986356f5bb7eab80008b707ec5baa0",
+    "evt_06986372e3297a2f800049b3a28cfe42",
+    "evt_06987f6bbb81718d80005ccc2b00a3f2",
+    "evt_06987f864498780080000bb315a28bc2",
+    "evt_0698805ecc2c76d78000abca51da3475",
+    "evt_0698805ef1b47eaa80002c3668246f67",
+    "evt_069880b6c0ed795a8000aab5dd15fbc1",
+    "evt_069880b74dcb7e6780002257a79f5623"
+  ]
+}
