@@ -1,0 +1,158 @@
+{
+  "scan_date": "2026-03-08",
+  "scanner": "AI Agency Lead Generator",
+  "total_leads": 8,
+  "leads": [
+    {
+      "id": "LEAD-20260308-001",
+      "company": "University of Maine System",
+      "industry": "Higher Education",
+      "opportunity_type": "RFP - Enterprise Generative AI Services",
+      "description": "RFP 2026-065 seeking enterprise generative AI platform implementation plus training. $5-15M contract value.",
+      "estimated_value": "$5M-$15M",
+      "deadline": "2026-03-27",
+      "confidence_score": 0.92,
+      "source": "Government RFP Database",
+      "contact_info": "University of Maine System Procurement Office",
+      "tags": [
+        "education",
+        "generative-ai",
+        "platform-implementation",
+        "training"
+      ]
+    },
+    {
+      "id": "LEAD-20260308-002",
+      "company": "Naval Surface Warfare Center (U.S. DoD)",
+      "industry": "Defense / Government",
+      "opportunity_type": "RFP - AI-Assisted Knowledge Base",
+      "description": "AI-assisted knowledge base procurement for naval warfare center. $30M first-year budget.",
+      "estimated_value": "$30M",
+      "deadline": "2026-Q2",
+      "confidence_score": 0.88,
+      "source": "Federal Procurement",
+      "contact_info": "NAVSEA Contracting Office",
+      "tags": [
+        "defense",
+        "knowledge-management",
+        "government",
+        "high-value"
+      ]
+    },
+    {
+      "id": "LEAD-20260308-003",
+      "company": "Air Force Mobility Acquisition",
+      "industry": "Defense / Government",
+      "opportunity_type": "Sources Sought - AI Tools for Aircraft Acquisition",
+      "description": "AI tools to accelerate aircraft acquisition processes. Sources sought notice posted Feb 18, deadline Mar 20.",
+      "estimated_value": "$5M-$20M",
+      "deadline": "2026-03-20",
+      "confidence_score": 0.85,
+      "source": "SAM.gov",
+      "contact_info": "Air Force Mobility Command Contracting",
+      "tags": [
+        "defense",
+        "acquisition",
+        "process-automation"
+      ]
+    },
+    {
+      "id": "LEAD-20260308-004",
+      "company": "Life Insurance Corporation of India",
+      "industry": "Insurance / Financial Services",
+      "opportunity_type": "RFP - AI/ML Customer Onboarding Automation",
+      "description": "AI/ML-enabled customer onboarding automation for India's largest life insurer.",
+      "estimated_value": "$3M-$8M",
+      "deadline": "2026-Q1",
+      "confidence_score": 0.8,
+      "source": "International RFP",
+      "contact_info": "LIC IT Department",
+      "tags": [
+        "insurance",
+        "onboarding",
+        "ml-automation",
+        "international"
+      ]
+    },
+    {
+      "id": "LEAD-20260308-005",
+      "company": "Pearson (via IBM Consulting)",
+      "industry": "Education / EdTech",
+      "opportunity_type": "AI-Powered Personalized Learning Platform",
+      "description": "Pearson deploying IBM Enterprise Advantage for AI-powered personalized learning.",
+      "estimated_value": "$2M-$5M",
+      "deadline": "Ongoing",
+      "confidence_score": 0.75,
+      "source": "IBM Announcement",
+      "contact_info": "Pearson Technology Division",
+      "tags": [
+        "edtech",
+        "personalization",
+        "agentic-ai"
+      ]
+    },
+    {
+      "id": "LEAD-20260308-006",
+      "company": "Mid-Market Manufacturing Sector",
+      "industry": "Manufacturing",
+      "opportunity_type": "Multi-Technology AI Assistants",
+      "description": "Major manufacturing clients piloting multi-technology AI assistants. 47% lack adequate data infrastructure.",
+      "estimated_value": "$1M-$10M per engagement",
+      "deadline": "Ongoing",
+      "confidence_score": 0.78,
+      "source": "BCG AI Radar 2026 / IBM Reports",
+      "contact_info": "Various - target manufacturing firms 500-5000 employees",
+      "tags": [
+        "manufacturing",
+        "data-infrastructure",
+        "governance",
+        "consulting"
+      ]
+    },
+    {
+      "id": "LEAD-20260308-007",
+      "company": "Enterprise AI Governance Gap",
+      "industry": "Cross-Industry",
+      "opportunity_type": "AI Governance and MLOps Consulting",
+      "description": "Only 1 in 5 companies has mature AI governance. 340,000 global AI talent shortage. Average implementation cost $890K.",
+      "estimated_value": "$500K-$2M per engagement",
+      "deadline": "Ongoing",
+      "confidence_score": 0.9,
+      "source": "Deloitte State of AI in Enterprise 2026",
+      "contact_info": "Target: Companies with 40%+ AI projects in production",
+      "tags": [
+        "governance",
+        "mlops",
+        "talent-gap",
+        "high-demand"
+      ]
+    },
+    {
+      "id": "LEAD-20260308-008",
+      "company": "Healthcare and Pharma AI Integration",
+      "industry": "Healthcare / Pharmaceutical",
+      "opportunity_type": "Domain-Specific AI Agent Development",
+      "description": "Healthcare and pharma top vertical for domain-specific AI agents. 58% use physical AI, projected 80% within 2 years.",
+      "estimated_value": "$2M-$15M per engagement",
+      "deadline": "Ongoing",
+      "confidence_score": 0.82,
+      "source": "DesignRush 2026 AI Agency Report",
+      "contact_info": "Target: Healthcare systems and pharma companies 1000+ employees",
+      "tags": [
+        "healthcare",
+        "pharma",
+        "domain-specific",
+        "agents"
+      ]
+    }
+  ],
+  "market_context": {
+    "global_ai_spending_2026": "$2.53 trillion",
+    "enterprise_ai_software_market": "$115B growing to $270B+ by 2031",
+    "agentic_ai_market": "$7.6B (2025) to $199B by 2034 at 46% CAGR",
+    "ceo_ai_priority": "75% of CEOs now primary AI decision-makers",
+    "ai_budget_doubling": "Companies doubling AI spend from 0.8% to 1.7% of revenues",
+    "execution_gap": "79% expect major AI value by 2030, only 24% feel ready",
+    "talent_shortage": "340,000 global AI talent gap"
+  }
+}
