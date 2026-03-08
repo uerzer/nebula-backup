@@ -1,0 +1,10 @@
+{
+  "channel_name": "cloud",
+  "slug": "cloud",
+  "thread_id": "thread_cloud",
+  "backup_date": "2026-03-08",
+  "message_count": 1,
+  "has_more_messages": false,
+  "files_referenced": [],
+  "notes": "Messages retrieved via search_past_messages API. Some assistant responses may be truncated or missing due to search limitations. Timestamps are approximate."
+}
