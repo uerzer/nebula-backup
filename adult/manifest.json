@@ -1,0 +1,12 @@
+{
+  "channel_name": "adult",
+  "slug": "adult",
+  "thread_id": "thread_adult",
+  "backup_date": "2026-03-08",
+  "message_count": 30,
+  "has_more_messages": true,
+  "files_referenced": [
+    "https://grok.com/share/bGVnYWN5_7e6abaf6-252e-4c30-85f6-73a206d960f6"
+  ],
+  "notes": "Messages retrieved via search_past_messages API. Some assistant responses may be truncated or missing due to search limitations. Timestamps are approximate."
+}
