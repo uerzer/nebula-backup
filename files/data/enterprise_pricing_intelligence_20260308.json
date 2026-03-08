@@ -1,0 +1,245 @@
+{
+  "scan_date": "2026-03-08",
+  "scanner": "Enterprise Pricing Tracker",
+  "total_changes_tracked": 9,
+  "pricing_changes": [
+    {
+      "id": "PRICE-20260308-001",
+      "company": "Microsoft",
+      "product": "Microsoft 365 Commercial",
+      "effective_date": "2026-07-01",
+      "changes": [
+        {
+          "tier": "M365 Basic",
+          "old_price": "$6/user/mo",
+          "new_price": "$7/user/mo",
+          "change_pct": "16.7%"
+        },
+        {
+          "tier": "M365 Standard",
+          "old_price": "$12.50/user/mo",
+          "new_price": "$14/user/mo",
+          "change_pct": "12%"
+        },
+        {
+          "tier": "Office 365 E3",
+          "old_price": "$23/user/mo",
+          "new_price": "$26/user/mo",
+          "change_pct": "13%"
+        },
+        {
+          "tier": "M365 E3",
+          "old_price": "$36/user/mo",
+          "new_price": "$39/user/mo",
+          "change_pct": "8.3%"
+        },
+        {
+          "tier": "M365 E5",
+          "old_price": "$57/user/mo",
+          "new_price": "$60/user/mo",
+          "change_pct": "5.3%"
+        },
+        {
+          "tier": "M365 F3",
+          "old_price": "$8/user/mo",
+          "new_price": "$10/user/mo",
+          "change_pct": "25%"
+        }
+      ],
+      "driver": "AI capabilities (Copilot Chat), enhanced security (Defender)",
+      "opportunity_score": 0.85
+    },
+    {
+      "id": "PRICE-20260308-002",
+      "company": "Google",
+      "product": "Google Workspace",
+      "effective_date": "2026-03-17",
+      "changes": [
+        {
+          "tier": "Business Starter",
+          "old_price": "$6/user/mo",
+          "new_price": "$8/user/mo",
+          "change_pct": "33%"
+        },
+        {
+          "tier": "Business Standard",
+          "old_price": "$12/user/mo",
+          "new_price": "$14/user/mo",
+          "change_pct": "16.7%"
+        },
+        {
+          "tier": "Business Plus",
+          "old_price": "$18/user/mo",
+          "new_price": "$22/user/mo",
+          "change_pct": "22%"
+        }
+      ],
+      "driver": "Mandatory Gemini AI features bundled (previously $30/user/mo separately)",
+      "opportunity_score": 0.9
+    },
+    {
+      "id": "PRICE-20260308-003",
+      "company": "Atlassian",
+      "product": "Jira/Confluence/JSM Data Center",
+      "effective_date": "2026-02-17",
+      "changes": [
+        {
+          "tier": "All Data Center Tiers",
+          "old_price": "Various",
+          "new_price": "+15% flat",
+          "change_pct": "15%"
+        },
+        {
+          "tier": "Advantaged Pricing Customers",
+          "old_price": "Legacy rates",
+          "new_price": "Current pricing alignment",
+          "change_pct": "18-40%"
+        }
+      ],
+      "driver": "Data Center product investment and legacy pricing alignment",
+      "opportunity_score": 0.75
+    },
+    {
+      "id": "PRICE-20260308-004",
+      "company": "Salesforce",
+      "product": "Sales/Service/Field Service Clouds",
+      "effective_date": "2026-08-01",
+      "changes": [
+        {
+          "tier": "Enterprise/Unlimited Editions",
+          "old_price": "Various",
+          "new_price": "+6% average",
+          "change_pct": "6%"
+        },
+        {
+          "tier": "Agentforce Add-ons",
+          "old_price": "N/A (new)",
+          "new_price": "$125/user/mo",
+          "change_pct": "New product"
+        },
+        {
+          "tier": "Agentforce 1 Editions",
+          "old_price": "N/A (new)",
+          "new_price": "$550/user/mo",
+          "change_pct": "New product"
+        }
+      ],
+      "driver": "AI agent capabilities and infrastructure investment",
+      "opportunity_score": 0.88
+    },
+    {
+      "id": "PRICE-20260308-005",
+      "company": "Slack (Salesforce)",
+      "product": "Slack Business+",
+      "effective_date": "2026-06-01",
+      "changes": [
+        {
+          "tier": "Business+ Annual",
+          "old_price": "$12.50/user/mo",
+          "new_price": "$15/user/mo",
+          "change_pct": "20%"
+        },
+        {
+          "tier": "Business+ Monthly",
+          "old_price": "$15/user/mo",
+          "new_price": "$18/user/mo",
+          "change_pct": "20%"
+        }
+      ],
+      "driver": "Enterprise search and AI capabilities addition",
+      "opportunity_score": 0.7
+    },
+    {
+      "id": "PRICE-20260308-006",
+      "company": "GitHub",
+      "product": "GitHub Actions",
+      "effective_date": "2026-01-01",
+      "changes": [
+        {
+          "tier": "Hosted Runners",
+          "old_price": "Previous rates",
+          "new_price": "Up to 39% reduction",
+          "change_pct": "-39%"
+        }
+      ],
+      "driver": "Competitive pressure and ecosystem growth",
+      "opportunity_score": 0.4
+    },
+    {
+      "id": "PRICE-20260308-007",
+      "company": "Adobe",
+      "product": "Creative Cloud",
+      "effective_date": "Ongoing",
+      "changes": [
+        {
+          "tier": "Full Suite",
+          "old_price": "$55+/user/mo",
+          "new_price": "$55+/user/mo (Firefly premium extra)",
+          "change_pct": "0% base, AI premium add-on"
+        }
+      ],
+      "driver": "Generative AI (Firefly) locked behind premium tiers",
+      "opportunity_score": 0.8
+    }
+  ],
+  "market_trends": {
+    "overall_saas_inflation": "8.7% to 12.2% annually (5x general inflation)",
+    "saas_spend_per_employee": "$9,100 (up 15% since 2024)",
+    "ai_surcharge_premium": "20-45% for AI features",
+    "usage_based_adoption": "42% of SaaS vendors now usage-based (up from 27% in 2023)",
+    "per_seat_model_decline": "70% of vendors expected to refactor away from pure per-seat by 2028",
+    "outcome_based_pricing": "40% of enterprise SaaS to include outcome-based components by 2026",
+    "volume_discount_removal": "Major vendors eliminating traditional EA discounts (previously up to 12%)"
+  },
+  "pricing_gaps": [
+    {
+      "category": "CRM",
+      "expensive": "Salesforce Enterprise ($165/user/mo)",
+      "alternative": "Zoho CRM ($14/user/mo)",
+      "savings": "91%",
+      "feature_parity": "70-80%"
+    },
+    {
+      "category": "Productivity Suite",
+      "expensive": "Google Workspace Business Plus ($22/user/mo)",
+      "alternative": "Open source alternatives",
+      "savings": "100%",
+      "feature_parity": "60-70%"
+    },
+    {
+      "category": "Design Tools",
+      "expensive": "Adobe Creative Cloud ($660/year)",
+      "alternative": "Affinity Suite ($70 one-time)",
+      "savings": "94% over 5 years",
+      "feature_parity": "75-85%"
+    },
+    {
+      "category": "Helpdesk",
+      "expensive": "Zendesk Enterprise ($150+/agent/mo)",
+      "alternative": "Freshservice ($69/agent/mo)",
+      "savings": "54%",
+      "feature_parity": "80%"
+    },
+    {
+      "category": "Project Management",
+      "expensive": "Monday.com ($10-24/user/mo)",
+      "alternative": "ClickUp ($5/user/mo)",
+      "savings": "50-79%",
+      "feature_parity": "85%"
+    },
+    {
+      "category": "Team Chat",
+      "expensive": "Slack Business+ ($15/user/mo)",
+      "alternative": "Discord/Zulip (Free-$10/mo)",
+      "savings": "33-100%",
+      "feature_parity": "70-80%"
+    },
+    {
+      "category": "RPA/Automation",
+      "expensive": "UiPath/Blue Prism ($228K/yr)",
+      "alternative": "Make.com/Zapier ($77K/yr)",
+      "savings": "66%",
+      "feature_parity": "60-75%"
+    }
+  ]
+}
