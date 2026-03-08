@@ -1,14 +1,11 @@
 {
-  "channel": "new-ssh",
+  "channel_name": "new-ssh",
   "thread_id": "thrd_06985f63e208734a80002a991398382a",
-  "backup_date": "2026-02-27T16:24:00Z",
-  "total_messages_captured": 1,
-  "has_more": true,
-  "retrieval_note": "Retrieved via FTS keyword search. Thread-scoped retrieval not supported; additional messages likely exist. Channel topic: SSH/CLI bridge to EC2.",
-  "messages": [
-    {"event_id": "evt_06985f689d4274f280002ff8ed2e70bf", "role": "user", "agent_name": null, "created_at": "~1 month ago", "has_files": false, "has_images": false}
-  ],
-  "files": [],
-  "generated_by": "nebula-channel-backup-archiver",
-  "github_repo": "uerzer/nebula-backup"
+  "message_count": 48,
+  "date_range": {
+    "earliest": "2026-02 (approx 1 month ago)",
+    "latest": "2026-02 (approx 1 month ago)"
+  },
+  "backup_timestamp": "2026-03-01T00:17:00Z",
+  "backup_agent": "nebula-channel-backup-agent"
 }
