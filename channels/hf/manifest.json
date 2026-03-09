@@ -1,45 +1,13 @@
 {
   "channel": "hf",
-  "thread_id": "thrd_06987573403976c280004d421d87ce24",
-  "backup_date": "2026-03-01",
-  "backup_agent": "nebula-channel-backup-archiver",
-  "repository": "uerzer/nebula-backup",
-  "stats": {
-    "messages_captured": 17,
-    "total_messages_approx": 50,
-    "has_more_messages": true,
-    "user_messages": 7,
-    "assistant_messages": 10
-  },
-  "file_references": [
-    "@file:docs/FREE_DEPLOYMENT_GUIDE.md"
-  ],
-  "key_topics": [
-    "Smart Money Tracker (Solana wallet copy-trading)",
-    "pump.fun WebSocket monitoring",
-    "Cloud deployment options (Railway, Render, DigitalOcean, Fly.io, Oracle)",
-    "Telegram alert bot",
-    "Web dashboard (leaderboard + analytics)",
-    "Crypto coordination detection market research",
-    "SolanaSpy / SuperX competitive analysis"
-  ],
-  "message_ids": [
-    "evt_06989c921f2e7181800072d15e5cae0e",
-    "evt_06989c91ac407b5b800077659e45e26f",
-    "evt_06989c916fcc725780001df271538aa0",
-    "evt_06989c9126757ca68000ae79a788ceab",
-    "evt_06989c8fff1974008000a817e09894dd",
-    "evt_06989c85635776d480001a867d8999a5",
-    "evt_06989c66a3f57cdd800052d4ec78269a",
-    "evt_06989c54105b71e7800084f6c6ab7fbb",
-    "evt_06989c303c3a769f8000fa847232df86",
-    "evt_06989bf84c4c72b2800038228387493b",
-    "evt_06989bf50b25781c80000f44e1bde84b",
-    "evt_06989bf4dffc73fc80006c9c4b289c39",
-    "evt_06989be641967fe58000c8e106b74093",
-    "evt_06989bce76b77271800066e222ea0f6d",
-    "evt_06989bc98fe9762180004476f01cc0c6",
-    "evt_06989bc56f11755380005b1ad28a4911",
-    "evt_06989293310b78918000e820e6b137e0"
+  "channel_name": "hf",
+  "folder": "hf",
+  "description": "Hugging Face models and AI/ML channel",
+  "message_count": 2,
+  "is_archived": false,
+  "backup_timestamp": "2026-03-09T08:13:00Z",
+  "backup_date": "2026-03-09",
+  "sources": [
+    "hf"
   ]
 }
