@@ -1,11 +1,13 @@
 {
+  "channel": "daily-framework-content-scanner",
   "channel_name": "Daily Framework Content Scanner",
-  "channel_id": "thrd_069a13388f347d39800049a29670ece4",
-  "message_count": 33,
-  "date_range": {
-    "earliest": "a day ago",
-    "latest": "18 hours ago"
-  },
-  "backup_timestamp": "2026-03-01T00:17:00Z",
-  "has_files": false
+  "folder": "daily-framework-content-scanner",
+  "description": "Daily trigger: scans for trending framework and content opportunities",
+  "message_count": 4,
+  "is_archived": false,
+  "backup_timestamp": "2026-03-09T08:06:00Z",
+  "backup_date": "2026-03-09",
+  "sources": [
+    "Daily Framework Content Scanner"
+  ]
 }
