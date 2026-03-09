@@ -1,11 +1,1 @@
-{
-  "channel_name": "self-improvement",
-  "thread_id": "thrd_06985dcf370f7a95800042f8835edc0d",
-  "message_count": 18,
-  "date_range": {
-    "earliest": "2026-02 (approx 1 month ago)",
-    "latest": "2026-02 (approx 1 month ago)"
-  },
-  "backup_timestamp": "2026-03-01T00:17:00Z",
-  "backup_agent": "nebula-channel-backup-agent"
-}
+{"channel_name":"self improvement","slug":"self-improvement","backup_date":"2026-03-09","message_count":9,"is_archived":false,"files_referenced":[],"backup_tool":"nebula-channel-backup-archiver","backup_version":"3.0"}
