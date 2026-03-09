@@ -1,0 +1,13 @@
+{
+  "channel": "obliterated",
+  "channel_name": "obliterated",
+  "folder": "obliterated",
+  "description": "Channel for obliterated/deprecated features and cleanup tasks",
+  "message_count": 2,
+  "is_archived": false,
+  "backup_timestamp": "2026-03-09T08:06:00Z",
+  "backup_date": "2026-03-09",
+  "sources": [
+    "obliterated"
+  ]
+}
