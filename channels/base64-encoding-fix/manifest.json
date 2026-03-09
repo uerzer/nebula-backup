@@ -1,0 +1,13 @@
+{
+  "channel": "base64-encoding-fix",
+  "channel_name": "base64-encoding-fix",
+  "folder": "base64-encoding-fix",
+  "description": "Channel for debugging and fixing base64 encoding issues in file operations",
+  "message_count": 4,
+  "is_archived": false,
+  "backup_timestamp": "2026-03-09T08:06:00Z",
+  "backup_date": "2026-03-09",
+  "sources": [
+    "base64-encoding-fix"
+  ]
+}
