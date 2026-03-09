@@ -1,0 +1,11 @@
+{
+  "channel_name": "diffusion",
+  "slug": "diffusion",
+  "backup_date": "2026-03-09",
+  "message_count": 1,
+  "is_archived": false,
+  "first_message_date": "2026-03-07T12:00:00Z",
+  "last_message_date": "2026-03-07T12:00:00Z",
+  "backup_tool": "nebula-channel-backup-archiver",
+  "backup_execution": 3
+}
