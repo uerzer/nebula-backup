@@ -1,0 +1,11 @@
+{
+  "channel_name": "grok",
+  "slug": "grok",
+  "backup_date": "2026-03-09",
+  "message_count": 1,
+  "is_archived": false,
+  "first_message_date": "2026-02-28T10:00:00Z",
+  "last_message_date": "2026-02-28T10:00:00Z",
+  "backup_tool": "nebula-channel-backup-archiver",
+  "backup_execution": 3
+}
