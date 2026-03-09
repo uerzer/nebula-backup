@@ -1,14 +1,13 @@
 {
+  "channel": "test",
   "channel_name": "test",
-  "display_name": "test",
-  "thread_id": "thrd_0698b4d9c9877d1d8000f998b3c9f98b",
-  "message_count": 30,
-  "date_range": {
-    "first_message": "2026-02-10",
-    "last_message": "2026-02-10"
-  },
-  "backup_timestamp": "2026-03-01T00:24:00Z",
+  "folder": "test",
+  "description": "Test channel (archived)",
+  "message_count": 2,
   "is_archived": true,
-  "participants": ["user", "UserAgent"],
-  "description": "Archived test channel used for troubleshooting Windows disk space issues. Conversation covers Docker cleanup (docker_data.vhdx ~37GB), WSL2 (ext4.vhdx ~23GB), System Volume Information, pagefile.sys, and step-by-step guidance on using Revo Uninstaller to fully remove Docker Desktop and reclaim ~37GB of disk space."
+  "backup_timestamp": "2026-03-09T08:13:00Z",
+  "backup_date": "2026-03-09",
+  "sources": [
+    "test"
+  ]
 }
