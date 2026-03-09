@@ -1,0 +1,13 @@
+{
+  "channel": "discord-agent-setup",
+  "channel_name": "discord-agent-setup",
+  "folder": "discord-agent-setup",
+  "description": "Discord bot and agent configuration channel",
+  "message_count": 2,
+  "is_archived": false,
+  "backup_timestamp": "2026-03-09T08:13:00Z",
+  "backup_date": "2026-03-09",
+  "sources": [
+    "discord-agent-setup"
+  ]
+}
