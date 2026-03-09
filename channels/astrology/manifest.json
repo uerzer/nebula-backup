@@ -1,11 +1,13 @@
 {
+  "channel": "astrology",
   "channel_name": "astrology",
-  "slug": "astrology",
-  "backup_date": "2026-03-09",
-  "message_count": 3,
+  "folder": "astrology",
+  "description": "Astrology-related discussions and cosmo-astrology project channel",
+  "message_count": 4,
   "is_archived": false,
-  "first_message_date": "2026-03-08T08:00:00Z",
-  "last_message_date": "2026-03-09T08:06:00Z",
-  "backup_tool": "nebula-channel-backup-archiver",
-  "backup_execution": 3
+  "backup_timestamp": "2026-03-09T08:12:00Z",
+  "backup_date": "2026-03-09",
+  "sources": [
+    "astrology"
+  ]
 }
