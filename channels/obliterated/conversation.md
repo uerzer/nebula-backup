@@ -8,12 +8,12 @@
 
 **[2026-02-25] [USER] user** *(from: obliterated)*
 
-Track deprecated features and cleanup tasks here.
+Tracking obliterated and deprecated features for cleanup.
 
 ---
 
 **[2026-02-25] [ASSISTANT] Nebula** *(from: obliterated)*
 
-Channel configured for tracking deprecated features, removed configurations, and cleanup operations.
+Obliterated channel initialized. Will track deprecated features, removed functionality, and cleanup tasks here.
 
 ---
