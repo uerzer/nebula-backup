@@ -1,1 +1,9 @@
-{"channel_name":"crypto","slug":"crypto","backup_date":"2026-03-09","message_count":3,"is_archived":false,"files_referenced":[],"backup_tool":"nebula-channel-backup-archiver","backup_version":"3.0"}
+{
+  "channel_name": "crypto",
+  "slug": "crypto",
+  "message_count": 1,
+  "backup_date": "2026-03-10",
+  "first_message_date": "2026-02-09",
+  "last_message_date": "2026-02-09",
+  "note": null
+}
