@@ -1,13 +1,11 @@
 {
-  "channel": "test",
   "channel_name": "test",
-  "folder": "test",
-  "description": "Test channel (archived)",
+  "slug": "test",
   "message_count": 2,
+  "backup_date": "2026-03-10",
+  "backup_timestamp": "2026-03-10T08:07:00Z",
+  "first_message_date": "2026-02-05",
+  "last_message_date": "2026-02-05",
   "is_archived": true,
-  "backup_timestamp": "2026-03-09T08:13:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "test"
-  ]
+  "description": "Testing and sandbox channel for experimental features"
 }
