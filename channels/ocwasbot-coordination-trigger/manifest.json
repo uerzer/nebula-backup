@@ -1,11 +1,11 @@
 {
   "channel_name": "ocwasbot-coordination-trigger",
   "slug": "ocwasbot-coordination-trigger",
-  "backup_date": "2026-03-09",
   "message_count": 3,
+  "backup_date": "2026-03-10",
+  "backup_timestamp": "2026-03-10T08:07:00Z",
+  "first_message_date": "2026-02-08",
+  "last_message_date": "2026-03-01",
   "is_archived": false,
-  "first_message_date": "2026-02-28T14:00:00Z",
-  "last_message_date": "2026-03-01T10:00:00Z",
-  "backup_tool": "nebula-channel-backup-archiver",
-  "backup_execution": 3
+  "description": "Trigger channel for OCWASbot automated coordination tasks"
 }
