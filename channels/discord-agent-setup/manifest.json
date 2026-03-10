@@ -1,13 +1,11 @@
 {
-  "channel": "discord-agent-setup",
   "channel_name": "discord-agent-setup",
-  "folder": "discord-agent-setup",
-  "description": "Discord bot and agent configuration channel",
-  "message_count": 2,
+  "slug": "discord-agent-setup",
+  "message_count": 4,
+  "backup_date": "2026-03-10",
+  "backup_timestamp": "2026-03-10T08:07:00Z",
+  "first_message_date": "2026-02-10",
+  "last_message_date": "2026-03-08",
   "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:13:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "discord-agent-setup"
-  ]
+  "description": "Discord bot and agent configuration, setup, and troubleshooting"
 }
