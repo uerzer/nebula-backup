@@ -1,13 +1,11 @@
 {
-  "channel": "business-intelligence-automation",
   "channel_name": "business-intelligence-automation",
-  "folder": "business-intelligence-automation",
-  "description": "Business intelligence and automation workflows channel",
-  "message_count": 2,
+  "slug": "business-intelligence-automation",
+  "message_count": 4,
+  "backup_date": "2026-03-10",
+  "backup_timestamp": "2026-03-10T08:07:00Z",
+  "first_message_date": "2026-02-15",
+  "last_message_date": "2026-03-05",
   "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:13:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "business-intelligence-automation"
-  ]
+  "description": "Automated business intelligence, market analysis, and data-driven decision support"
 }
