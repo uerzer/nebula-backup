@@ -1,0 +1,42 @@
+{
+  "newsletter_date": "20260308",
+  "generated_at": "2026-03-08T06:04:48.703212",
+  "version": "1.0.0",
+  "sections": {
+    "news_stories": {
+      "total_stories": 20,
+      "top_categories": {
+        "Other": 12,
+        "AI/ML": 4,
+        "SaaS": 2,
+        "Programming": 2
+      },
+      "sources": {
+        "hackernews": 29,
+        "techcrunch": 20,
+        "twitter": 0
+      }
+    },
+    "viral_trends": {
+      "total_opportunities": 0,
+      "avg_viral_score": 0,
+      "top_opportunity": null
+    },
+    "agency_leads": {
+      "total_segments": 0,
+      "qualified_leads": 0,
+      "top_segment": ""
+    },
+    "crypto_arbitrage": {
+      "pairs_scanned": 0,
+      "opportunities_found": 0,
+      "profitable_count": 0
+    }
+  },
+  "delivery_status": "draft",
+  "file_paths": {
+    "markdown": "outputs/newsletter-drafts/edge_finder_20260308.md",
+    "html": "outputs/newsletter-drafts/edge_finder_20260308.html",
+    "metadata": "outputs/newsletter-drafts/edge_finder_20260308_metadata.json"
+  }
+}
