@@ -1,13 +1,9 @@
 {
-  "channel": "daily-newsletter-draft-edge-finder",
   "channel_name": "Daily Newsletter Draft - Edge Finder",
-  "folder": "daily-newsletter-draft-edge-finder",
-  "description": "Daily trigger: generates Edge Finder newsletter draft from aggregated intelligence data",
-  "message_count": 4,
-  "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:06:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "Daily Newsletter Draft - Edge Finder"
-  ]
+  "slug": "daily-newsletter-draft-edge-finder",
+  "message_count": 5,
+  "backup_date": "2026-03-10",
+  "first_message_date": "2026-03-10",
+  "last_message_date": "2026-03-10",
+  "backup_timestamp": "2026-03-10T08:07:00Z"
 }
