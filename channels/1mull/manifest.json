@@ -1,13 +1,1 @@
-{
-  "channel": "1mull",
-  "channel_name": "1mull",
-  "folder": "1mull",
-  "description": "1mull project channel",
-  "message_count": 2,
-  "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:06:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "1mull"
-  ]
-}
+{"channel_name":"1mull","slug":"1mull","message_count":2,"backup_date":"2026-03-10","backup_execution":4,"first_message_date":"2026-02-28","last_message_date":"2026-02-28","is_archived":false,"description":"1mull project channel"}
