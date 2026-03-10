@@ -1,13 +1,9 @@
 {
-  "channel": "daily-scanner-intelligence-run",
   "channel_name": "Daily Scanner Intelligence Run",
-  "folder": "daily-scanner-intelligence-run",
-  "description": "Daily trigger: runs all 6 opportunity intelligence scanners at 6 AM UTC and commits reports to GitHub",
-  "message_count": 6,
-  "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:06:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "Daily Scanner Intelligence Run"
-  ]
+  "slug": "daily-scanner-intelligence-run",
+  "message_count": 14,
+  "backup_date": "2026-03-10",
+  "first_message_date": "2026-03-10",
+  "last_message_date": "2026-03-10",
+  "backup_timestamp": "2026-03-10T08:07:00Z"
 }
