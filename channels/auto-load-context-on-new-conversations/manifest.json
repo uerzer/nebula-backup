@@ -1,13 +1,11 @@
 {
-  "channel": "auto-load-context-on-new-conversations",
-  "channel_name": "Auto-Load Context on New Conversations",
-  "folder": "auto-load-context-on-new-conversations",
-  "description": "Trigger channel for automatically loading context when new conversations start",
+  "channel_name": "auto-load-context-on-new-conversations",
+  "slug": "auto-load-context-on-new-conversations",
   "message_count": 3,
+  "backup_date": "2026-03-10",
+  "backup_timestamp": "2026-03-10T08:07:00Z",
+  "first_message_date": "2026-02-08",
+  "last_message_date": "2026-02-20",
   "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:13:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "Auto-Load Context on New Conversations"
-  ]
+  "description": "Trigger channel for automatically loading context when new conversations start"
 }
