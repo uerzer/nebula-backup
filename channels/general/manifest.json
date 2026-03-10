@@ -1,13 +1,1 @@
-{
-  "channel": "general",
-  "channel_name": "general",
-  "folder": "general",
-  "description": "Main general discussion channel for Nebula workspace",
-  "message_count": 8,
-  "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:06:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "general"
-  ]
-}
+{"channel_name":"general","slug":"general","message_count":0,"backup_date":"2026-03-10","first_message_date":null,"last_message_date":null,"backup_timestamp":"2026-03-10T08:07:00Z","note":"No messages found in search results"}
