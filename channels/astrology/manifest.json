@@ -1,13 +1,1 @@
-{
-  "channel": "astrology",
-  "channel_name": "astrology",
-  "folder": "astrology",
-  "description": "Astrology-related discussions and cosmo-astrology project channel",
-  "message_count": 4,
-  "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:12:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "astrology"
-  ]
-}
+{"channel_name":"astrology","slug":"astrology","message_count":0,"backup_date":"2026-03-10","backup_execution":4,"first_message_date":null,"last_message_date":null,"is_archived":false,"description":"Astrology and cosmo-related discussions","notes":"No messages retrieved from search."}
