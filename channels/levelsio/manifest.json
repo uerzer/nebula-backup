@@ -1,13 +1,1 @@
-{
-  "channel": "levelsio",
-  "channel_name": "levelsio",
-  "folder": "levelsio",
-  "description": "Levelsio-inspired indie hacker strategies and project discussions",
-  "message_count": 4,
-  "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:12:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "levelsio"
-  ]
-}
+{"channel_name":"levelsio","slug":"levelsio","message_count":0,"backup_date":"2026-03-10","backup_execution":4,"first_message_date":null,"last_message_date":null,"is_archived":false,"description":"Levelsio-inspired indie hacker projects and strategies","notes":"No messages retrieved from search."}
