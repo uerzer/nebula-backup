@@ -1,13 +1,1 @@
-{
-  "channel": "diffusion",
-  "channel_name": "diffusion",
-  "folder": "diffusion",
-  "description": "AI image diffusion models and generation discussions",
-  "message_count": 2,
-  "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:12:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "diffusion"
-  ]
-}
+{"channel_name":"diffusion","slug":"diffusion","message_count":0,"backup_date":"2026-03-10","backup_execution":4,"first_message_date":null,"last_message_date":null,"is_archived":false,"description":"AI diffusion models and image generation discussions","notes":"No messages retrieved from search."}
