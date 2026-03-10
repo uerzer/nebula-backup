@@ -1,13 +1,1 @@
-{
-  "channel": "vst",
-  "channel_name": "Vst",
-  "folder": "vst",
-  "description": "VST plugins and audio production channel",
-  "message_count": 2,
-  "is_archived": false,
-  "backup_timestamp": "2026-03-09T08:13:00Z",
-  "backup_date": "2026-03-09",
-  "sources": [
-    "Vst"
-  ]
-}
+{"channel_name": "vst", "slug": "vst", "message_count": 0, "backup_date": "2026-03-10", "first_message_date": null, "last_message_date": null, "note": "No messages found in search. Channel may be empty or have minimal content."}
