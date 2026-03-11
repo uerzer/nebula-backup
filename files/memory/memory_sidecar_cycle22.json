@@ -1,0 +1,65 @@
+{
+  "cycle": 22,
+  "generated_at": "2026-03-11T07:22:00Z",
+  "total_memories": 4,
+  "memories": [
+    {
+      "id": "733e06b0abb6d926",
+      "source_type": "task",
+      "content": "Cycle #22 result -- ACTIVE. Timestamp: 2026-03-11T07:21:00Z. Repos patched: 6. Commits: ~20. Actions: (1) niche-directory-empire: zeroed 8 test debris files (test-action-probe.txt, test-create-action.txt, test-deploy.txt, test-file.txt, test-nebula.txt, test-new.txt, test-probe.txt, test.txt). (2) sauna-finder: zeroed 3 test files (test-action.txt, test-api-write.txt, test-pages-check.txt) + sauna-site-v2.tar.gz (2MB build artifact) + test-nested/deep/test.txt + test-nested/subdir/file.txt. (3) car-wash-sim: zeroed .DS_Store + updated .gitignore with macOS patterns. (4) cosmo-quiz: zeroed pages-enable.txt debug artifact. (5) astrology-engine: zeroed TEST_RESULTS.md (6.9KB test artifact). (6) creator: added .gitignore + MIT LICENSE (both completely missing). Email: clear. Blockers (all MANUAL_REQUIRED, unchanged from cycle 21): studio master branch + .env history purge, all 26 repos missing topics, 4 repos missing descriptions (astroinsight, car-wash-sim, dramaqueenai, studio), cosmo-funnel #1 payment processor decision, adult-pipeline #1 manual close.",
+      "metadata": {
+        "agent": "nebula-memory-layer",
+        "topic": "cycle_result",
+        "tags": ["cycle_result", "cycle_22", "autonomous_loop"],
+        "cycle": 22,
+        "repos_patched": 6,
+        "commits": 20,
+        "status": "ACTIVE"
+      },
+      "importance": 0.9,
+      "created_at": "2026-03-11T07:22:00Z"
+    },
+    {
+      "id": "b286d570f5a6c4e3",
+      "source_type": "insight",
+      "content": "ANTI-PATTERN confirmed cycle #22: github-topics-api-not-available. PUT /repos/{owner}/{repo}/topics is NOT available as a run_action call. Confirmed unavailable across cycles 18-22. NEVER retry autonomously. Route to MANUAL_REQUIRED queue. Must set topics manually via GitHub web UI (gear icon next to About on each repo page).",
+      "metadata": {
+        "agent": "nebula-memory-layer",
+        "topic": "anti_pattern",
+        "tags": ["anti_pattern", "github", "topics_api", "manual_required"],
+        "pattern_key": "github-topics-api-not-available",
+        "confirmed_cycles": [18, 19, 20, 21, 22]
+      },
+      "importance": 0.95,
+      "created_at": "2026-03-11T07:22:00Z"
+    },
+    {
+      "id": "891993ab7409f1e2",
+      "source_type": "insight",
+      "content": "ANTI-PATTERN confirmed cycle #22: github-repo-description-api-unavailable. PATCH /repos/{owner}/{repo} for description update is NOT available as a run_action call. Confirmed unavailable across cycles 18-22. NEVER retry autonomously. Route to MANUAL_REQUIRED queue. Affected repos this cycle: astroinsight, car-wash-sim, dramaqueenai, studio.",
+      "metadata": {
+        "agent": "nebula-memory-layer",
+        "topic": "anti_pattern",
+        "tags": ["anti_pattern", "github", "description_api", "manual_required"],
+        "pattern_key": "github-repo-description-api-unavailable",
+        "confirmed_cycles": [18, 19, 20, 21, 22]
+      },
+      "importance": 0.95,
+      "created_at": "2026-03-11T07:22:00Z"
+    },
+    {
+      "id": "c4becd50834fa090",
+      "source_type": "insight",
+      "content": "ANTI-PATTERN confirmed cycle #22: nebula_memory_py_missing. nebula_memory.py is NOT present in uerzer/nebula-backup/files/scripts. Sandbox resets between executions -- engine must be bootstrapped via raw SQL each cycle. Fallback: use raw sqlite3 + JSON metadata directly. Never assume engine is pre-installed in sandbox.",
+      "metadata": {
+        "agent": "nebula-memory-layer",
+        "topic": "anti_pattern",
+        "tags": ["anti_pattern", "sandbox", "memory_engine", "bootstrap"],
+        "pattern_key": "nebula_memory_py_missing",
+        "confirmed_cycles": [22]
+      },
+      "importance": 0.85,
+      "created_at": "2026-03-11T07:22:00Z"
+    }
+  ]
+}
